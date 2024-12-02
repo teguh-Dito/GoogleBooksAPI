@@ -1,0 +1,37 @@
+[
+    {
+        "rating": "4.5",
+        "title" : "1",
+        "text"  : "Tere Liye",
+        "img"   : "img/pic1.jpg",
+        "audio" : "Bumi.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title" : "2",
+        "text"  : "Tere Liye",
+        "img"   : "img/pic2.jpg",
+        "audio" : "Bumi.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title" : "3",
+        "text"  : "Tere Liye",
+        "img"   : "img/pic3.jpg",
+        "audio" : "Bumi.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title" : "4",
+        "text"  : "Tere Liye",
+        "img"   : "img/pic1.jpg",
+        "audio" : "Bumi.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title" : "5",
+        "text"  : "Tere Liye",
+        "img"   : "img/pic1.jpg",
+        "audio" : "Bumi.mp3"
+    }
+]

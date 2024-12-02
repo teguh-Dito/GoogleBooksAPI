@@ -1,0 +1,37 @@
+[
+    {
+        "rating": "4.5",
+        "title" : "Selena",
+        "text"  : "Tere Liye",
+        "img"   : "img/pic1.jpg",
+        "audio" : "Bumi.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title" : "Pulang",
+        "text"  : "Tere Liye",
+        "img"   : "img/pic2.jpg",
+        "audio" : "Bumi.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title" : "Pergi",
+        "text"  : "Tere Liye",
+        "img"   : "img/pic3.jpg",
+        "audio" : "Bumi.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title" : "Rindu",
+        "text"  : "Tere Liye",
+        "img"   : "img/pic1.jpg",
+        "audio" : "Bumi.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title" : "Bulan",
+        "text"  : "Tere Liye",
+        "img"   : "img/pic1.jpg",
+        "audio" : "Bumi.mp3"
+    }
+]
